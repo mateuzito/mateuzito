@@ -13,10 +13,13 @@ Esses projetos refletem minha capacidade de criar soluções web elegantes e fun
 ## 💡 Objetivos
 Meu principal objetivo é aumentar a interação com meus projetos, seja por meio de seguidores, curtidas ou feedback construtivo. Estou sempre buscando melhorar e aprender com a comunidade!
 
-## 📫 Como entrar em contato comigo
-- LinkedIn: [mateuzito](https://www.linkedin.com/in/mateuzito)
+# 💻 Tech Stack
 
-Sinta-se à vontade para se conectar comigo no LinkedIn para colaborações, oportunidades ou se você quiser conversar sobre o mundo fascinante do desenvolvimento web!
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+# 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mateuslas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mateuslas) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mateuzitosilva)
 
 ## ⚡ Um pouco mais sobre mim
 Comecei a me interessar por programação pela vasta gama de possibilidades que ela oferece. A capacidade de criar quase qualquer coisa a partir do zero e ver suas ideias ganharem vida é incrivelmente gratificante. Além de programar, tenho um forte interesse em fotografia, como você pode ver no meu projeto TeuzinFotografia, que é uma maneira de combinar minhas paixões e habilidades de maneiras criativas.
